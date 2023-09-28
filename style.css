@@ -34,6 +34,14 @@ h1 {
 header p {
     font-size: 18px;
 }
+br {
+    content: "";
+    margin: 20px;
+    display: block;
+}
+span {
+    font-family: helveticaBold;
+}
 #container {
     width: 80vw;
     height: 30vw;
